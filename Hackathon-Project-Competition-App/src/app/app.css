@@ -1,0 +1,17 @@
+  
+    nav {
+      background-color: #0d6efd;
+    }
+    nav a.navbar-brand {
+      font-weight: bold;
+      color: white !important;
+    }
+    nav a.nav-link {
+      color: white !important;
+      margin-right: 15px;
+    }
+    footer {
+      background-color: #0b2239;
+      color: white;
+      padding: 40px 0;
+    }
